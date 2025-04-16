@@ -8,4 +8,4 @@ Only the declaration is hoisted — not the assignment.
 
 ```js
 console.log(a); // undefined
-var a = 5;
+var a = 4;
